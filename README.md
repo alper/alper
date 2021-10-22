@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Twitter](https://img.shields.io/twitter/follow/:alper?label=Follow?style=for-the-badge&logo=twitter&logoColor=<Logo Color>)
+![Reddit](https://img.shields.io/reddit/user-karma/combined/alper?label=%2Fu%2Falper&style=social)
 
 <!--
 **alper/alper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
