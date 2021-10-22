@@ -4,7 +4,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/alper?style=social)
 ![Github](https://img.shields.io/github/followers/alper?label=alper&style=social)
 
-[Homepage](https://alper.nl)
+[alper.nl](https://alper.nl)
 
 <!--
 **alper/alper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
