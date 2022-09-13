@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Reddit](https://img.shields.io/reddit/user-karma/combined/alper?label=%2Fu%2Falper&style=social)
 ![Twitter](https://img.shields.io/twitter/follow/alper?style=social)
 ![Github](https://img.shields.io/github/followers/alper?label=alper&style=social)
 
