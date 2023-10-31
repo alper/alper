@@ -2,9 +2,11 @@
 
 <a href="https://rls.social/@alper">![Mastodon Follow](https://img.shields.io/mastodon/follow/109287514691765577?domain=https%3A%2F%2Frls.social)</a>
 
-<a href="https://alper.nl">![Static Badge](https://img.shields.io/badge/alper.nl-orange)</a>
+<a href="https://alper.nl">![Static Badge](https://img.shields.io/badge/alper.nl-green)</a>
 
 <a href="https://stackoverflow.com/users/102315/alper">![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/102315)</a>
+
+<a href="https://lobste.rs">![Static Badge](https://img.shields.io/badge/lobste.rs_alper-orange)</a>
 
 <!--
 **alper/alper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
