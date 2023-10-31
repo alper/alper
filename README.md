@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109287514691765577?domain=https%3A%2F%2Frls.social)
+<a href="https://rls.social/@alper">![Mastodon Follow](https://img.shields.io/mastodon/follow/109287514691765577?domain=https%3A%2F%2Frls.social)</a>
 
 [alper.nl](https://alper.nl)
 
