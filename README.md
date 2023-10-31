@@ -6,7 +6,7 @@
 
 <a href="https://stackoverflow.com/users/102315/alper">![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/102315)</a>
 
-<a href="https://lobste.rs">![Static Badge](https://img.shields.io/badge/lobste.rs_alper-orange)</a>
+<a href="https://lobste.rs/~alper">![Static Badge](https://img.shields.io/badge/lobste.rs_alper-orange)</a>
 
 <!--
 **alper/alper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
