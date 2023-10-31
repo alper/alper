@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Twitter](https://img.shields.io/twitter/follow/alper?style=social)
-![Github](https://img.shields.io/github/followers/alper?label=alper&style=social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109287514691765577?domain=https%3A%2F%2Frls.social)
 
 [alper.nl](https://alper.nl)
 
