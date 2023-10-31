@@ -2,7 +2,7 @@
 
 <a href="https://rls.social/@alper">![Mastodon Follow](https://img.shields.io/mastodon/follow/109287514691765577?domain=https%3A%2F%2Frls.social)</a>
 
-![Static Badge](https://img.shields.io/badge/alper.nl-orange)
+<a href="https://alper.nl">![Static Badge](https://img.shields.io/badge/alper.nl-orange)</a>
 
 <!--
 **alper/alper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
